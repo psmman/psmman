@@ -11,7 +11,7 @@
 <div style="display: flex; align-items: center;">
   <img src="https://img.icons8.com/color/96/000000/businessman.png" alt="Avatar" style="border-radius: 50%; margin-right: 20px;" />
   <div>
-    <p>I am a <strong>Strategic Thought Leader</strong> in <strong>Information Technology</strong>, specializing in <strong>Product Development</strong> and <strong>Digital Innovation</strong>. As a <strong>Technology Innovationist</strong>, I bring an idiosyncratic blend of proficiency and experience in innovative technologies, catering to <strong>Commercial, Private,</strong> and <strong>Public sector</strong> clientele.</p>
+    <p>I am a <strong>Strategic Thought Leader</strong> in <strong>Information Technology</strong>, specializing in <strong>Product Development</strong> and <strong>Digital Innovation</strong>. As a <strong>Technology Innovationist</strong>, I bring an idiosyncratic blend of proficiency and experience in various technologies, catering to <strong>Commercial, Private,</strong> and <strong>Public sector</strong> clientele.</p>
   </div>
 </div>
 
