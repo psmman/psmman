@@ -207,7 +207,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <a href="mailto:prasenjitsingh@outlook.com" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/new-post.png" alt="Email Icon" style="vertical-align: middle;"/> 
-    <strong>Email: prasenjit.singh@milliman.com</strong>
+    <strong>Email: prasenjitsingh@outlook.com</strong>
   </a>
   <a href="https://www.linkedin.com/in/prasenjitsingh/" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" style="vertical-align: middle;"/> 
