@@ -205,7 +205,7 @@
 ## 📫 Reach Me
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <a href="mailto:prasenjit.singh@milliman.com" style="text-decoration: none;">
+  <a href="mailto:prasenjitsingh@outlook.com" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/new-post.png" alt="Email Icon" style="vertical-align: middle;"/> 
     <strong>Email: prasenjit.singh@milliman.com</strong>
   </a>
